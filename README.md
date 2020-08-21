@@ -1,4 +1,8 @@
-# vue-first
+# vue-basic-vue-chat-with-APIGateway
+
+Simple Chat App using [basic-vue-chat](https://www.npmjs.com/package/basic-vue-chat) with APIGateway backend
+
+
 
 ## Project setup
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "vue-first",
+  "name": "basic-vue-chat-with-APIGateway",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "basic-vue-chat": "^0.3.5",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
